@@ -217,7 +217,7 @@
 	contains = list(
 			/obj/item/book/manual/rust_engine,
 			/obj/machinery/power/fusion_core,
-			/obj/item/circuitboard/fusion_core
+			/obj/item/circuitboard/fusion_core_control
 			)
 
 /datum/supply_pack/eng/fusion_fuel_injector
@@ -229,7 +229,7 @@
 	contains = list(
 			/obj/machinery/fusion_fuel_injector,
 			/obj/machinery/fusion_fuel_injector,
-			/obj/item/circuitboard/fusion_injector
+			/obj/item/circuitboard/fusion_fuel_control
 			)
 
 /datum/supply_pack/eng/gyrotron
